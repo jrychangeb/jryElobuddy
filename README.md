@@ -1,3 +1,3 @@
 # jryElobuddy
 
-riven漢化 代po
+漢化腳本上傳示範 
